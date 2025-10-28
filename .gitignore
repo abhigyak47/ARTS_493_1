@@ -1,0 +1,13 @@
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+.vscode/
+.vs/
+*.VC.db
+*.sln
+*.suo
+*.code-workspace
